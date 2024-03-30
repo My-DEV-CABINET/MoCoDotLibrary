@@ -12,7 +12,7 @@ let package = Package(
             targets: ["MoCoDotLibrary"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/SnapKit/SnapKit", from: "5.7.0"),
+        .package(url: "https://github.com/SnapKit/SnapKit", from: "5.7.1"),
     ],
     targets: [
         .target(
